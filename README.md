@@ -1,4 +1,1 @@
-# akashfokane.github.io
-```akash```
-- hi 
-- hello
+## akashfokane.github.io
